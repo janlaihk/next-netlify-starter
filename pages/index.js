@@ -16,6 +16,8 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
     <p>hey how are you</p>
+        <p>hey how are you</p>
+        <p>hey how are you</p>
       </main>
 
       <Footer />
